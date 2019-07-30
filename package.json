@@ -5,7 +5,6 @@
   "gitRepositoryURL": "",
   "version": "0.1.2",
   "highlight" : "LightUI",
-  "folder":"Arctic",
   "colors": {
     "primaryColor": "#CCCCCC",
     "secondaryColor": "white",
